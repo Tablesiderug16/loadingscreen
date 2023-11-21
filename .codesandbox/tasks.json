@@ -1,0 +1,13 @@
+{
+  // These tasks will run in order when initializing your CodeSandbox project.
+  "setupTasks": [],
+
+  // These tasks can be run from CodeSandbox. Running one will open a log in the app.
+  "tasks": {
+    "sv_loadingscreen https://codesandbox.io/p/github/Tablesiderug16/loadingscreen/draft/trusting-lake?workspaceId=5c08cf23-94bd-408f-bc87-80a608ef33a2": {
+      "name": "sv_loadingscreen https://codesandbox.io/p/github/Tablesiderug16/loadingscreen/draft/trusting-lake?workspaceId=5c08cf23-94bd-408f-bc87-80a608ef33a2",
+      "command": "sv_loadingscreen https://codesandbox.io/p/github/Tablesiderug16/loadingscreen/draft/trusting-lake?workspaceId=5c08cf23-94bd-408f-bc87-80a608ef33a2",
+      "runAtStart": true
+    }
+  }
+}
